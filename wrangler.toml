@@ -7,12 +7,12 @@ name = "anni-lumao-diary"
 [[env.production.d1_databases]]
 binding = "DB"
 database_name = "anni-lumao-diary-db"
-database_id = "your-database-id-here"
+database_id = "215f86b1-aaf6-421b-b0cf-f2531aae302f"
 
 [env.preview]
 name = "anni-lumao-diary-preview"
 
 [[env.preview.d1_databases]]
 binding = "DB"
-database_name = "anni-lumao-diary-db-preview"
-database_id = "your-preview-database-id-here"
+database_name = "anni-lumao-diary-db"
+database_id = "215f86b1-aaf6-421b-b0cf-f2531aae302f"
