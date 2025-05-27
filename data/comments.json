@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "recordId": 1,
+    "recordType": "airdrop",
+    "username": "crypto_hunter",
+    "content": "这个空投真的很不错，我也拿到了不少ARB代币！",
+    "createdAt": "2024-01-16T08:20:00.000Z",
+    "updatedAt": "2024-01-16T08:20:00.000Z"
+  },
+  {
+    "id": 2,
+    "recordId": 1,
+    "recordType": "airdrop",
+    "username": "defi_lover",
+    "content": "Arbitrum的生态发展很快，这个空投值得参与",
+    "createdAt": "2024-01-16T10:15:00.000Z",
+    "updatedAt": "2024-01-16T10:15:00.000Z"
+  },
+  {
+    "id": 3,
+    "recordId": 2,
+    "recordType": "dog",
+    "username": "risk_manager",
+    "content": "早就看出这个项目有问题，团队背景不透明",
+    "createdAt": "2024-01-13T15:30:00.000Z",
+    "updatedAt": "2024-01-13T15:30:00.000Z"
+  }
+]

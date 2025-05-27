@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "userId": 1,
+    "username": "Anni",
+    "project": "Arbitrum空投",
+    "platform": "Arbitrum",
+    "status": "已完成",
+    "reward": "1000 ARB",
+    "difficulty": "中等",
+    "description": "通过在Arbitrum网络上进行交易获得空投奖励",
+    "finalReward": 1200,
+    "funding": "A轮 1.2亿美元",
+    "commentCount": 3,
+    "createdAt": "2024-01-15T10:30:00.000Z",
+    "updatedAt": "2024-01-15T10:30:00.000Z"
+  },
+  {
+    "id": 2,
+    "userId": 1,
+    "username": "Anni",
+    "project": "LayerZero测试网",
+    "platform": "LayerZero",
+    "status": "进行中",
+    "reward": "待定",
+    "difficulty": "困难",
+    "description": "参与LayerZero跨链协议测试网活动",
+    "finalReward": 0,
+    "funding": "A轮 1.35亿美元",
+    "commentCount": 7,
+    "createdAt": "2024-01-20T14:20:00.000Z",
+    "updatedAt": "2024-01-20T14:20:00.000Z"
+  },
+  {
+    "id": 3,
+    "userId": 1,
+    "username": "Anni",
+    "project": "zkSync Era",
+    "platform": "zkSync",
+    "status": "已完成",
+    "reward": "500 ZK",
+    "difficulty": "简单",
+    "description": "在zkSync Era主网上进行交易和使用DeFi协议",
+    "finalReward": 800,
+    "funding": "B轮 2亿美元",
+    "commentCount": 12,
+    "createdAt": "2024-01-10T09:15:00.000Z",
+    "updatedAt": "2024-01-10T09:15:00.000Z"
+  }
+]
